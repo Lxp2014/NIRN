@@ -11,7 +11,7 @@ conda env create -f NIRN.yml
 
 conda activate NIRN
 
-The package comprises these functions
+The package comprises these functions：
 
 *) single_free_denoise.py        : Denoise single-frame real-world noisy image 
 
